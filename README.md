@@ -1,6 +1,6 @@
 # Flight-Price
-# The various features of the cleaned dataset are explained below:
 
+# The various features of the cleaned dataset are explained below:
 Airline: The name of the airline company is stored in the airline column. It is a categorical feature having 6 different airlines.
 Flight: Flight stores information regarding the plane's flight code. It is a categorical feature.
 Source City: City from which the flight takes off. It is a categorical feature having 6 unique cities.
